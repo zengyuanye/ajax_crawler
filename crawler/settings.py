@@ -7,7 +7,6 @@
 #     http://doc.scrapy.org/topics/settings.html
 #
 from configobj import ConfigObj
-
 import os
 import sys
 import datetime
